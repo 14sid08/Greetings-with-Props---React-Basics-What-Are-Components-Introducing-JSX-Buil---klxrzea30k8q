@@ -4,7 +4,13 @@ import Welcome from './Welcome';
 
 const App = () => {
   return (
-    <Welcome name="" />
+    <div>
+    <Welcome name="Jitesh" >
+      
+      </Welcome>
+    
+    </div>
+
   )
 }
 
